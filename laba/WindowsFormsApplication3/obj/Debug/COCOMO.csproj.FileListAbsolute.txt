@@ -1,0 +1,24 @@
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\COCOMO.csprojResolveAssemblyReference.cache
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\COCOMO.csproj.GenerateResource.Cache
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\nds601\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\COCOMO.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\COCOMO.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\COCOMO.csprojAssemblyReference.cache
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Данила\Desktop\COCOMO (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
